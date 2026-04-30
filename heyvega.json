@@ -3,7 +3,7 @@
   "wake_word": "hey vega",
   "author": "manu",
   "website": "https://github.com/emanueledonatonifoto/voiceassistant",
-  "model": "https://github.com/emanueledonatonifoto/voiceassistant/raw/main/heyvega.tflite"
+  "model": "https://github.com/emanueledonatonifoto/voiceassistant/raw/main/heyvega.tflite",
   "trained_languages": ["it", "en"],
   "version": 2,
   "micro": {
