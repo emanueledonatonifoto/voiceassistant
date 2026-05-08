@@ -1,0 +1,17 @@
+{
+  "type": "micro_wake_word_model",
+  "wake_word": "hey vega",
+  "version": 1,
+  "models": [
+    {
+      "model_language": "en",
+      "wake_word_variants": [
+        "hey vega"
+      ],
+      "architecture": "streaming_inferencing",
+      "model": "./hey_vega.tflite",
+      "version": 1,
+      "minimum_esphome_version": "2024.2.0"
+    }
+  ]
+}
