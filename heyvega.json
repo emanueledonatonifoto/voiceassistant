@@ -3,7 +3,7 @@
   "wake_word": "hey vega",
   "author": "donatoni",
   "website": "",
-  "model": "https://raw.githubusercontent.com/emanueledonatonifoto/voiceassistant/main/heyvega.tflite",
+  "model": "heyvega.tflite",
   "trained_languages": ["it"],
   "version": 2,
   "micro": {
