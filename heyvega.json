@@ -1,6 +1,13 @@
 {
-  "type": "micro_wake_word_model",
+  "type": "micro",
   "wake_word": "hey vega",
+  "author": "donatoni",
+  "model": "https://raw.githubusercontent.com/emanueledonatonifoto/voiceassistant/main/heyvega.tflite",
   "version": 1,
-  "model": "https://raw.githubusercontent.com/emanueledonatonifoto/voiceassistant/main/heyvega.tflite"
+  "micro": {
+    "probability_cutoff": 0.5,
+    "sliding_window_size": 5,
+    "feature_step_size": 10,
+    "minimum_esphome_version": "2024.2.0"
+  }
 }
