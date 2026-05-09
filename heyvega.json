@@ -2,7 +2,7 @@
   "type": "micro_wake_word_model",
   "wake_word": "hey vega",
   "version": 1,
-  "models": [
+  "model": [
     {
       "model_language": "it",
       "wake_word_variants": [
