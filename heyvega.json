@@ -2,16 +2,5 @@
   "type": "micro_wake_word_model",
   "wake_word": "hey vega",
   "version": 1,
-  "model": [
-    {
-      "model_language": "it",
-      "wake_word_variants": [
-        "hey vega"
-      ],
-      "architecture": "streaming_inferencing",
-      "model": "https://raw.githubusercontent.com/emanueledonatonifoto/voiceassistant/main/heyvega.tflite",
-      "version": 1,
-      "minimum_esphome_version": "2024.2.0"
-    }
-  ]
+  "model": "https://raw.githubusercontent.com/emanueledonatonifoto/voiceassistant/main/heyvega.tflite"
 }
