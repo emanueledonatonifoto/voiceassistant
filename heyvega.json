@@ -9,7 +9,7 @@
         "hey vega"
       ],
       "architecture": "streaming_inferencing",
-      "model": "./heyvega.tflite",
+      "model": "https://raw.githubusercontent.com/emanueledonatonifoto/voiceassistant/main/heyvega.tflite",
       "version": 1,
       "minimum_esphome_version": "2024.2.0"
     }
